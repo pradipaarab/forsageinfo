@@ -1,0 +1,1403 @@
+2020-09-06 03:18:48
+PHP VERSION 7.2.33
+OS VERSION Windows NT OPREKIN-PC 10.0 build 18363 (Windows 10) AMD64
+WP VERSION 5.5.1
+WP URL http://localhost/forsageinfo
+WP SITEURL http://localhost/forsageinfo
+WP HOME http://localhost/forsageinfo
+WP ADDRESS http://localhost/forsageinfo
+PLUGIN VERSION 6.6.7
+VIA WP-CLI? 
+STATIC EXPORT URL https://pradipaarab.github.io/forsageinfo/
+PERMALINK STRUCTURE /%year%/%monthnum%/%day%/%postname%/
+SERVER SOFTWARE Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.2.33
+Active plugins:
+elementor/elementor.php
+envato-elements/envato-elements.php
+static-html-output-plugin/wp2static.php
+Plugin options:
+additionalUrls: 
+allowOfflineUsage: 
+baseHREF: 
+baseUrl: 
+baseUrl-bitbucket: 
+baseUrl-bunnycdn: 
+baseUrl-folder: 
+baseUrl-ftp: 
+baseUrl-github: 
+baseUrl-gitlab: 
+baseUrl-netlify: 
+baseUrl-s3: 
+baseUrl-zip: 
+baseUrl-zip: 
+basicAuthPassword: *******************
+basicAuthUser: 
+bbBranch: 
+bbPath: 
+bbRepo: 
+bbToken: *******************
+bunnycdnStorageZoneAccessKey: *******************
+bunnycdnPullZoneAccessKey: *******************
+bunnycdnPullZoneID: 
+bunnycdnStorageZoneName: 
+bunnycdnRemotePath: 
+cfDistributionId: 
+completionEmail: 
+crawl_delay: 
+crawl_increment: 
+crawlPort: 
+debug_mode: 
+detection_level: 
+delayBetweenAPICalls: 
+deployBatchSize: 
+excludeURLs: 
+ftpPassword: *******************
+ftpRemotePath: 
+ftpServer: 
+ftpPort: 
+ftpTLS: 
+ftpUsername: 
+ghBranch: 
+ghCommitMessage: 
+ghPath: 
+ghRepo: 
+ghToken: *******************
+glBranch: 
+glPath: 
+glProject: 
+glToken: *******************
+netlifyHeaders: 
+netlifyPersonalAccessToken: *******************
+netlifyRedirects: 
+netlifySiteID: 
+removeConditionalHeadComments: 1
+removeHTMLComments: 1
+removeWPLinks: 1
+removeWPMeta: 1
+rewrite_rules: 
+rename_rules: 
+s3Bucket: 
+s3Key: 
+s3Region: 
+s3RemotePath: 
+s3Secret: *******************
+selected_deployment_option: 
+targetFolder: 
+useActiveFTP: 
+useBaseHref: 
+useBasicAuth: 
+useRelativeURLs: 
+Installed extensions:
+Core
+bcmath
+calendar
+ctype
+date
+filter
+hash
+iconv
+json
+SPL
+pcre
+readline
+Reflection
+session
+standard
+mysqlnd
+tokenizer
+zip
+zlib
+libxml
+dom
+PDO
+bz2
+SimpleXML
+xml
+wddx
+xmlreader
+xmlwriter
+apache2handler
+openssl
+curl
+fileinfo
+gd
+gettext
+mbstring
+exif
+mysqli
+pdo_mysql
+pdo_sqlite
+Phar
+ftp
+Exclusion rules wp-json
+Crawling /
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/css/frontend-legacy.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/css/frontend.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-8.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-15.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-json/wp/v2/pages/15
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /wp-content/uploads/2020/09/arrow.png
+Adding discovered URL: /wp-content/uploads/2020/09/arrow-150x150.png
+Adding discovered URL: /wp-content/uploads/2020/09/passion-1024x682.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/passion-300x200.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/passion-768x512.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/passion-1536x1024.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/passion-1200x800.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/passion.jpg
+Adding discovered URL: /wp-content/uploads/elementor/thumbs/camera-drone-macro-1336211-ov2mhs2z3i16a9fv4fjibl8w3kgf9q5eyxn3fmgz9k.jpg
+Adding discovered URL: /wp-content/uploads/elementor/thumbs/jason-blackeye-137278-ov2mhynufca6jj6b20dwb1l499jzrlvjbu7hsk7820.jpg
+Adding discovered URL: /wp-content/uploads/elementor/thumbs/saffu-420247-unsplash-ov2mi58pr6j6sswqzl8aahxceynk9hlnoqrw5hxgug.jpg
+Adding discovered URL: /wp-content/uploads/elementor/thumbs/black-background-camera-color-1619654-ov2micrf9uthdoltrohaug1161mhz2fidrzrzpmbgo.jpg
+Adding discovered URL: /wp-content/uploads/elementor/thumbs/annie-niemaszyk-361241-unsplash-ov2mil7yzd52a69jea4xyvw6iigswcd3exv5b79rwo.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/woman.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/woman-300x300.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/woman-150x150.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/drone-3453361_1280.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/drone-3453361_1280-300x194.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/drone-3453361_1280-1024x663.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/drone-3453361_1280-768x497.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/drone-3453361_1280-1200x777.jpg
+Adding discovered URL: /wp-includes/js/jquery/jquery.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+Adding discovered URL: /wp-includes/js/jquery/ui/position.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend.min.js
+SAVING / to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /2020/09/06/hello-world/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /2020/09/06/hello-world/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-json/wp/v2/posts/1
+Adding discovered URL: /2020/09/06/hello-world/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /author/aarabinfotech/
+Adding discovered URL: /2020/09/
+SAVING /2020/09/06/hello-world/ to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/2020/09/06/hello-world/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /?elementor_library=default-kit
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/css/frontend-legacy.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/css/frontend.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-8.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-15.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-json/wp/v2/pages/15
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /wp-content/uploads/2020/09/arrow.png
+Adding discovered URL: /wp-content/uploads/2020/09/arrow-150x150.png
+Adding discovered URL: /wp-content/uploads/2020/09/passion-1024x682.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/passion-300x200.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/passion-768x512.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/passion-1536x1024.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/passion-1200x800.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/passion.jpg
+Adding discovered URL: /wp-content/uploads/elementor/thumbs/camera-drone-macro-1336211-ov2mhs2z3i16a9fv4fjibl8w3kgf9q5eyxn3fmgz9k.jpg
+Adding discovered URL: /wp-content/uploads/elementor/thumbs/jason-blackeye-137278-ov2mhynufca6jj6b20dwb1l499jzrlvjbu7hsk7820.jpg
+Adding discovered URL: /wp-content/uploads/elementor/thumbs/saffu-420247-unsplash-ov2mi58pr6j6sswqzl8aahxceynk9hlnoqrw5hxgug.jpg
+Adding discovered URL: /wp-content/uploads/elementor/thumbs/black-background-camera-color-1619654-ov2micrf9uthdoltrohaug1161mhz2fidrzrzpmbgo.jpg
+Adding discovered URL: /wp-content/uploads/elementor/thumbs/annie-niemaszyk-361241-unsplash-ov2mil7yzd52a69jea4xyvw6iigswcd3exv5b79rwo.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/woman.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/woman-300x300.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/woman-150x150.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/drone-3453361_1280.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/drone-3453361_1280-300x194.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/drone-3453361_1280-1024x663.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/drone-3453361_1280-768x497.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/drone-3453361_1280-1200x777.jpg
+Adding discovered URL: /wp-includes/js/jquery/jquery.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+Adding discovered URL: /wp-includes/js/jquery/ui/position.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend.min.js
+SAVING /?elementor_library=default-kit to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /?elementor_library=home-2
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/css/frontend-legacy.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/css/frontend.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-8.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-15.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-json/wp/v2/pages/15
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /wp-content/uploads/2020/09/arrow.png
+Adding discovered URL: /wp-content/uploads/2020/09/arrow-150x150.png
+Adding discovered URL: /wp-content/uploads/2020/09/passion-1024x682.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/passion-300x200.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/passion-768x512.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/passion-1536x1024.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/passion-1200x800.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/passion.jpg
+Adding discovered URL: /wp-content/uploads/elementor/thumbs/camera-drone-macro-1336211-ov2mhs2z3i16a9fv4fjibl8w3kgf9q5eyxn3fmgz9k.jpg
+Adding discovered URL: /wp-content/uploads/elementor/thumbs/jason-blackeye-137278-ov2mhynufca6jj6b20dwb1l499jzrlvjbu7hsk7820.jpg
+Adding discovered URL: /wp-content/uploads/elementor/thumbs/saffu-420247-unsplash-ov2mi58pr6j6sswqzl8aahxceynk9hlnoqrw5hxgug.jpg
+Adding discovered URL: /wp-content/uploads/elementor/thumbs/black-background-camera-color-1619654-ov2micrf9uthdoltrohaug1161mhz2fidrzrzpmbgo.jpg
+Adding discovered URL: /wp-content/uploads/elementor/thumbs/annie-niemaszyk-361241-unsplash-ov2mil7yzd52a69jea4xyvw6iigswcd3exv5b79rwo.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/woman.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/woman-300x300.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/woman-150x150.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/drone-3453361_1280.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/drone-3453361_1280-300x194.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/drone-3453361_1280-1024x663.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/drone-3453361_1280-768x497.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/drone-3453361_1280-1200x777.jpg
+Adding discovered URL: /wp-includes/js/jquery/jquery.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+Adding discovered URL: /wp-includes/js/jquery/ui/position.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend.min.js
+SAVING /?elementor_library=home-2 to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /category/uncategorized/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /category/uncategorized/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-json/wp/v2/categories/1
+Adding discovered URL: /
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /2020/09/06/hello-world/
+Adding discovered URL: /author/aarabinfotech/
+Adding discovered URL: /2020/09/
+SAVING /category/uncategorized/ to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/category/uncategorized/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /category/uncategorized/page/1
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /category/uncategorized/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-json/wp/v2/categories/1
+Adding discovered URL: /
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /2020/09/06/hello-world/
+Adding discovered URL: /author/aarabinfotech/
+Adding discovered URL: /2020/09/
+SAVING /category/uncategorized/page/1 to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/category/uncategorized/page/1/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /favicon.ico
+BAD RESPONSE STATUS (404): /favicon.ico
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /forsageinfo/
+BAD RESPONSE STATUS (404): /forsageinfo/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /forsageinfo/2020/
+BAD RESPONSE STATUS (404): /forsageinfo/2020/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /forsageinfo/2020/09/
+BAD RESPONSE STATUS (404): /forsageinfo/2020/09/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /forsageinfo/2020/09/06/
+BAD RESPONSE STATUS (404): /forsageinfo/2020/09/06/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /forsageinfo/2020/09/06/hello-world/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /2020/09/06/hello-world/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-json/wp/v2/posts/1
+Adding discovered URL: /2020/09/06/hello-world/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /author/aarabinfotech/
+Adding discovered URL: /2020/09/
+SAVING /forsageinfo/2020/09/06/hello-world/ to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/forsageinfo/2020/09/06/hello-world/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /page/1
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/css/frontend-legacy.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/css/frontend.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-8.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-15.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-json/wp/v2/pages/15
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /wp-content/uploads/2020/09/arrow.png
+Adding discovered URL: /wp-content/uploads/2020/09/arrow-150x150.png
+Adding discovered URL: /wp-content/uploads/2020/09/passion-1024x682.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/passion-300x200.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/passion-768x512.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/passion-1536x1024.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/passion-1200x800.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/passion.jpg
+Adding discovered URL: /wp-content/uploads/elementor/thumbs/camera-drone-macro-1336211-ov2mhs2z3i16a9fv4fjibl8w3kgf9q5eyxn3fmgz9k.jpg
+Adding discovered URL: /wp-content/uploads/elementor/thumbs/jason-blackeye-137278-ov2mhynufca6jj6b20dwb1l499jzrlvjbu7hsk7820.jpg
+Adding discovered URL: /wp-content/uploads/elementor/thumbs/saffu-420247-unsplash-ov2mi58pr6j6sswqzl8aahxceynk9hlnoqrw5hxgug.jpg
+Adding discovered URL: /wp-content/uploads/elementor/thumbs/black-background-camera-color-1619654-ov2micrf9uthdoltrohaug1161mhz2fidrzrzpmbgo.jpg
+Adding discovered URL: /wp-content/uploads/elementor/thumbs/annie-niemaszyk-361241-unsplash-ov2mil7yzd52a69jea4xyvw6iigswcd3exv5b79rwo.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/woman.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/woman-300x300.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/woman-150x150.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/drone-3453361_1280.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/drone-3453361_1280-300x194.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/drone-3453361_1280-1024x663.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/drone-3453361_1280-768x497.jpg
+Adding discovered URL: /wp-content/uploads/2020/09/drone-3453361_1280-1200x777.jpg
+Adding discovered URL: /wp-includes/js/jquery/jquery.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+Adding discovered URL: /wp-includes/js/jquery/ui/position.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend.min.js
+SAVING /page/1 to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/page/1/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /pages/page/1
+BAD RESPONSE STATUS (404): /pages/page/1
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /robots.txt
+BAD RESPONSE STATUS (404): /robots.txt
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /sitemap.xml
+SAVING /sitemap.xml to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/\/sitemap.xml
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\all.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\all.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\css/all.css
+Memory allocated by crawl script: 8192
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\all.min.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\all.min.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\css/all.min.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\brands.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\brands.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\css/brands.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\brands.min.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\brands.min.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\css/brands.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\font-awesome.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\font-awesome.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\css/font-awesome.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\font-awesome.min.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\font-awesome.min.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\css/font-awesome.min.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\fontawesome.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\fontawesome.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\css/fontawesome.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\fontawesome.min.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\fontawesome.min.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\css/fontawesome.min.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\regular.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\regular.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\css/regular.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\regular.min.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\regular.min.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\css/regular.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\solid.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\solid.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\css/solid.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\solid.min.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\solid.min.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\css/solid.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\svg-with-js.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\svg-with-js.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\css/svg-with-js.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\svg-with-js.min.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\svg-with-js.min.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\css/svg-with-js.min.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\v4-shims.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\v4-shims.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\css/v4-shims.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\v4-shims.min.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\v4-shims.min.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\css/v4-shims.min.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\fonts\FontAwesome.otf
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\fonts\FontAwesome.otf to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\fonts/FontAwesome.otf
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\fonts\fontawesome-webfont.eot
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\fonts\fontawesome-webfont.eot to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\fonts/fontawesome-webfont.eot
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\fonts\fontawesome-webfont.svg
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\fonts\fontawesome-webfont.svg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\fonts/fontawesome-webfont.svg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\fonts\fontawesome-webfont.ttf
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\fonts\fontawesome-webfont.ttf to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\fonts/fontawesome-webfont.ttf
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\fonts\fontawesome-webfont.woff
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\fonts\fontawesome-webfont.woff to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\fonts/fontawesome-webfont.woff
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\fonts\fontawesome-webfont.woff2
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\fonts\fontawesome-webfont.woff2 to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\fonts/fontawesome-webfont.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\js\brands.js
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\js\brands.js to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\js/brands.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\js\regular.js
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\js\regular.js to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\js/regular.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\js\solid.js
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\js\solid.js to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\js/solid.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\js\v4-shims.js
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\js\v4-shims.js to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\js/v4-shims.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\js\v4-shims.min.js
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\js\v4-shims.min.js to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\js/v4-shims.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\migration\mapping.js
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\migration\mapping.js to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\migration/mapping.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-brands-400.eot
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-brands-400.eot to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-brands-400.eot
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-brands-400.svg
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-brands-400.svg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-brands-400.svg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-brands-400.ttf
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-brands-400.ttf to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-brands-400.ttf
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-brands-400.woff
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-brands-400.woff to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-brands-400.woff
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-brands-400.woff2
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-brands-400.woff2 to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-brands-400.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-regular-400.eot
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-regular-400.eot to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-regular-400.eot
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-regular-400.svg
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-regular-400.svg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-regular-400.svg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-regular-400.ttf
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-regular-400.ttf to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-regular-400.ttf
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-regular-400.woff
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-regular-400.woff to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-regular-400.woff
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-regular-400.woff2
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-regular-400.woff2 to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-regular-400.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-solid-900.eot
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-solid-900.eot to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-solid-900.eot
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-solid-900.svg
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-solid-900.svg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-solid-900.svg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-solid-900.ttf
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-solid-900.ttf to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-solid-900.ttf
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-solid-900.woff
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-solid-900.woff to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-solid-900.woff
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-solid-900.woff2
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-solid-900.woff2 to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-solid-900.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\css\editor-style-block-rtl.css
+SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-block-rtl.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty\assets\css/editor-style-block-rtl.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\css\editor-style-block.css
+SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-block.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty\assets\css/editor-style-block.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\css\editor-style-classic-rtl.css
+SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-classic-rtl.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty\assets\css/editor-style-classic-rtl.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\css\editor-style-classic.css
+SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-classic.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty\assets\css/editor-style-classic.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-italic-var.woff2
+SAVING /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-italic-var.woff2 to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty\assets\fonts\inter/Inter-italic-var.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-upright-var.woff2
+SAVING /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-upright-var.woff2 to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty\assets\fonts\inter/Inter-upright-var.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-landscape-1.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-landscape-1.png to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty\assets\images/2020-landscape-1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-landscape-2.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-landscape-2.png to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty\assets\images/2020-landscape-2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-square-1.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-square-1.png to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty\assets\images/2020-square-1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-square-2.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-square-2.png to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty\assets\images/2020-square-2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-1.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-1.png to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-2.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-2.png to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-3.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-3.png to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-3.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-4.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-4.png to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-4.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\color-calculations.js
+SAVING /wp-content/themes/twentytwenty\assets\js\color-calculations.js to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty\assets\js/color-calculations.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\customize-controls.js
+SAVING /wp-content/themes/twentytwenty\assets\js\customize-controls.js to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty\assets\js/customize-controls.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\customize-preview.js
+SAVING /wp-content/themes/twentytwenty\assets\js\customize-preview.js to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty\assets\js/customize-preview.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\customize.js
+SAVING /wp-content/themes/twentytwenty\assets\js\customize.js to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty\assets\js/customize.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\editor-script-block.js
+SAVING /wp-content/themes/twentytwenty\assets\js\editor-script-block.js to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty\assets\js/editor-script-block.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\index.js
+SAVING /wp-content/themes/twentytwenty\assets\js\index.js to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty\assets\js/index.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\skip-link-focus-fix.js
+SAVING /wp-content/themes/twentytwenty\assets\js\skip-link-focus-fix.js to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty\assets\js/skip-link-focus-fix.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\package-lock.json
+SAVING /wp-content/themes/twentytwenty\package-lock.json to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty/package-lock.json
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\print.css
+SAVING /wp-content/themes/twentytwenty\print.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty/print.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\screenshot.png
+SAVING /wp-content/themes/twentytwenty\screenshot.png to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty/screenshot.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\style-rtl.css
+SAVING /wp-content/themes/twentytwenty\style-rtl.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty/style-rtl.css
+Memory allocated by crawl script: 10240
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\style.css
+SAVING /wp-content/themes/twentytwenty\style.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty/style.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\2020-landscape-1-1024x656.png
+SAVING /wp-content/uploads\2020\09\2020-landscape-1-1024x656.png to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/2020-landscape-1-1024x656.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\2020-landscape-1-150x150.png
+SAVING /wp-content/uploads\2020\09\2020-landscape-1-150x150.png to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/2020-landscape-1-150x150.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\2020-landscape-1-300x192.png
+SAVING /wp-content/uploads\2020\09\2020-landscape-1-300x192.png to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/2020-landscape-1-300x192.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\2020-landscape-1-768x492.png
+SAVING /wp-content/uploads\2020\09\2020-landscape-1-768x492.png to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/2020-landscape-1-768x492.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\2020-landscape-1.png
+SAVING /wp-content/uploads\2020\09\2020-landscape-1.png to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/2020-landscape-1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\annie-niemaszyk-361241-unsplash-1024x683.jpg
+SAVING /wp-content/uploads\2020\09\annie-niemaszyk-361241-unsplash-1024x683.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/annie-niemaszyk-361241-unsplash-1024x683.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\annie-niemaszyk-361241-unsplash-1200x800.jpg
+SAVING /wp-content/uploads\2020\09\annie-niemaszyk-361241-unsplash-1200x800.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/annie-niemaszyk-361241-unsplash-1200x800.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\annie-niemaszyk-361241-unsplash-150x150.jpg
+SAVING /wp-content/uploads\2020\09\annie-niemaszyk-361241-unsplash-150x150.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/annie-niemaszyk-361241-unsplash-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\annie-niemaszyk-361241-unsplash-300x200.jpg
+SAVING /wp-content/uploads\2020\09\annie-niemaszyk-361241-unsplash-300x200.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/annie-niemaszyk-361241-unsplash-300x200.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\annie-niemaszyk-361241-unsplash-768x512.jpg
+SAVING /wp-content/uploads\2020\09\annie-niemaszyk-361241-unsplash-768x512.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/annie-niemaszyk-361241-unsplash-768x512.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\annie-niemaszyk-361241-unsplash.jpg
+SAVING /wp-content/uploads\2020\09\annie-niemaszyk-361241-unsplash.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/annie-niemaszyk-361241-unsplash.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\arrow-150x150.png
+SAVING /wp-content/uploads\2020\09\arrow-150x150.png to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/arrow-150x150.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\arrow.png
+SAVING /wp-content/uploads\2020\09\arrow.png to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/arrow.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\black-background-camera-color-1619654-1024x682.jpg
+SAVING /wp-content/uploads\2020\09\black-background-camera-color-1619654-1024x682.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/black-background-camera-color-1619654-1024x682.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\black-background-camera-color-1619654-1200x800.jpg
+SAVING /wp-content/uploads\2020\09\black-background-camera-color-1619654-1200x800.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/black-background-camera-color-1619654-1200x800.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\black-background-camera-color-1619654-150x150.jpg
+SAVING /wp-content/uploads\2020\09\black-background-camera-color-1619654-150x150.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/black-background-camera-color-1619654-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\black-background-camera-color-1619654-300x200.jpg
+SAVING /wp-content/uploads\2020\09\black-background-camera-color-1619654-300x200.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/black-background-camera-color-1619654-300x200.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\black-background-camera-color-1619654-768x512.jpg
+SAVING /wp-content/uploads\2020\09\black-background-camera-color-1619654-768x512.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/black-background-camera-color-1619654-768x512.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\black-background-camera-color-1619654.jpg
+SAVING /wp-content/uploads\2020\09\black-background-camera-color-1619654.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/black-background-camera-color-1619654.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\camera-drone-macro-1336211-1024x682.jpg
+SAVING /wp-content/uploads\2020\09\camera-drone-macro-1336211-1024x682.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/camera-drone-macro-1336211-1024x682.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\camera-drone-macro-1336211-1200x799.jpg
+SAVING /wp-content/uploads\2020\09\camera-drone-macro-1336211-1200x799.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/camera-drone-macro-1336211-1200x799.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\camera-drone-macro-1336211-150x150.jpg
+SAVING /wp-content/uploads\2020\09\camera-drone-macro-1336211-150x150.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/camera-drone-macro-1336211-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\camera-drone-macro-1336211-300x200.jpg
+SAVING /wp-content/uploads\2020\09\camera-drone-macro-1336211-300x200.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/camera-drone-macro-1336211-300x200.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\camera-drone-macro-1336211-768x511.jpg
+SAVING /wp-content/uploads\2020\09\camera-drone-macro-1336211-768x511.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/camera-drone-macro-1336211-768x511.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\camera-drone-macro-1336211.jpg
+SAVING /wp-content/uploads\2020\09\camera-drone-macro-1336211.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/camera-drone-macro-1336211.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\drone-3453361_1280-1024x663.jpg
+SAVING /wp-content/uploads\2020\09\drone-3453361_1280-1024x663.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/drone-3453361_1280-1024x663.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\drone-3453361_1280-1200x777.jpg
+SAVING /wp-content/uploads\2020\09\drone-3453361_1280-1200x777.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/drone-3453361_1280-1200x777.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\drone-3453361_1280-150x150.jpg
+SAVING /wp-content/uploads\2020\09\drone-3453361_1280-150x150.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/drone-3453361_1280-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\drone-3453361_1280-300x194.jpg
+SAVING /wp-content/uploads\2020\09\drone-3453361_1280-300x194.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/drone-3453361_1280-300x194.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\drone-3453361_1280-768x497.jpg
+SAVING /wp-content/uploads\2020\09\drone-3453361_1280-768x497.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/drone-3453361_1280-768x497.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\drone-3453361_1280.jpg
+SAVING /wp-content/uploads\2020\09\drone-3453361_1280.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/drone-3453361_1280.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\jason-blackeye-137278-150x150.jpg
+SAVING /wp-content/uploads\2020\09\jason-blackeye-137278-150x150.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/jason-blackeye-137278-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\jason-blackeye-137278-300x200.jpg
+SAVING /wp-content/uploads\2020\09\jason-blackeye-137278-300x200.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/jason-blackeye-137278-300x200.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\jason-blackeye-137278-768x512.jpg
+SAVING /wp-content/uploads\2020\09\jason-blackeye-137278-768x512.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/jason-blackeye-137278-768x512.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\jason-blackeye-137278.jpg
+SAVING /wp-content/uploads\2020\09\jason-blackeye-137278.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/jason-blackeye-137278.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\passion-1024x682.jpg
+SAVING /wp-content/uploads\2020\09\passion-1024x682.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/passion-1024x682.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\passion-1200x800.jpg
+SAVING /wp-content/uploads\2020\09\passion-1200x800.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/passion-1200x800.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\passion-150x150.jpg
+SAVING /wp-content/uploads\2020\09\passion-150x150.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/passion-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\passion-1536x1024.jpg
+SAVING /wp-content/uploads\2020\09\passion-1536x1024.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/passion-1536x1024.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\passion-300x200.jpg
+SAVING /wp-content/uploads\2020\09\passion-300x200.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/passion-300x200.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\passion-768x512.jpg
+SAVING /wp-content/uploads\2020\09\passion-768x512.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/passion-768x512.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\passion.jpg
+SAVING /wp-content/uploads\2020\09\passion.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/passion.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\saffu-420247-unsplash-1024x793.jpg
+SAVING /wp-content/uploads\2020\09\saffu-420247-unsplash-1024x793.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/saffu-420247-unsplash-1024x793.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\saffu-420247-unsplash-1200x929.jpg
+SAVING /wp-content/uploads\2020\09\saffu-420247-unsplash-1200x929.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/saffu-420247-unsplash-1200x929.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\saffu-420247-unsplash-150x150.jpg
+SAVING /wp-content/uploads\2020\09\saffu-420247-unsplash-150x150.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/saffu-420247-unsplash-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\saffu-420247-unsplash-300x232.jpg
+SAVING /wp-content/uploads\2020\09\saffu-420247-unsplash-300x232.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/saffu-420247-unsplash-300x232.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\saffu-420247-unsplash-768x594.jpg
+SAVING /wp-content/uploads\2020\09\saffu-420247-unsplash-768x594.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/saffu-420247-unsplash-768x594.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\saffu-420247-unsplash.jpg
+SAVING /wp-content/uploads\2020\09\saffu-420247-unsplash.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/saffu-420247-unsplash.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\woman-150x150.jpg
+SAVING /wp-content/uploads\2020\09\woman-150x150.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/woman-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\woman-300x300.jpg
+SAVING /wp-content/uploads\2020\09\woman-300x300.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/woman-300x300.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\woman.jpg
+SAVING /wp-content/uploads\2020\09\woman.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\2020\09/woman.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\elementor\css\post-15.css
+SAVING /wp-content/uploads\elementor\css\post-15.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\elementor\css/post-15.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/uploads\elementor\css\post-8.css
+SAVING /wp-content/uploads\elementor\css\post-8.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\elementor\css/post-8.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\elementor\thumbs\annie-niemaszyk-361241-unsplash-ov2mil7yzd52a69jea4xyvw6iigswcd3exv5b79rwo.jpg
+SAVING /wp-content/uploads\elementor\thumbs\annie-niemaszyk-361241-unsplash-ov2mil7yzd52a69jea4xyvw6iigswcd3exv5b79rwo.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\elementor\thumbs/annie-niemaszyk-361241-unsplash-ov2mil7yzd52a69jea4xyvw6iigswcd3exv5b79rwo.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\elementor\thumbs\black-background-camera-color-1619654-ov2micrf9uthdoltrohaug1161mhz2fidrzrzpmbgo.jpg
+SAVING /wp-content/uploads\elementor\thumbs\black-background-camera-color-1619654-ov2micrf9uthdoltrohaug1161mhz2fidrzrzpmbgo.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\elementor\thumbs/black-background-camera-color-1619654-ov2micrf9uthdoltrohaug1161mhz2fidrzrzpmbgo.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\elementor\thumbs\camera-drone-macro-1336211-ov2mhs2z3i16a9fv4fjibl8w3kgf9q5eyxn3fmgz9k.jpg
+SAVING /wp-content/uploads\elementor\thumbs\camera-drone-macro-1336211-ov2mhs2z3i16a9fv4fjibl8w3kgf9q5eyxn3fmgz9k.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\elementor\thumbs/camera-drone-macro-1336211-ov2mhs2z3i16a9fv4fjibl8w3kgf9q5eyxn3fmgz9k.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\elementor\thumbs\jason-blackeye-137278-ov2mhynufca6jj6b20dwb1l499jzrlvjbu7hsk7820.jpg
+SAVING /wp-content/uploads\elementor\thumbs\jason-blackeye-137278-ov2mhynufca6jj6b20dwb1l499jzrlvjbu7hsk7820.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\elementor\thumbs/jason-blackeye-137278-ov2mhynufca6jj6b20dwb1l499jzrlvjbu7hsk7820.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\elementor\thumbs\saffu-420247-unsplash-ov2mi58pr6j6sswqzl8aahxceynk9hlnoqrw5hxgug.jpg
+SAVING /wp-content/uploads\elementor\thumbs\saffu-420247-unsplash-ov2mi58pr6j6sswqzl8aahxceynk9hlnoqrw5hxgug.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\elementor\thumbs/saffu-420247-unsplash-ov2mi58pr6j6sswqzl8aahxceynk9hlnoqrw5hxgug.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\css\customizer.css
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\css\customizer.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\css/customizer.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\manifest.json
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\manifest.json to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0/manifest.json
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\about-1.jpg
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\about-1.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots/about-1.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\about-2.jpg
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\about-2.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots/about-2.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\careers.jpg
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\careers.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots/careers.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\coming-soon.jpg
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\coming-soon.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots/coming-soon.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\contact-2.jpg
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\contact-2.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots/contact-2.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\contact-3.jpg
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\contact-3.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots/contact-3.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\contact.jpg
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\contact.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots/contact.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\faq.jpg
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\faq.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots/faq.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\features.jpg
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\features.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots/features.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\home-1.jpg
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\home-1.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots/home-1.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\home-2.jpg
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\home-2.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots/home-2.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\home-3.jpg
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\home-3.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots/home-3.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\product-comparison.jpg
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\product-comparison.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots/product-comparison.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\products.jpg
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\products.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots/products.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\repair-service-2.jpg
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\repair-service-2.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots/repair-service-2.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\repair-service.jpg
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\repair-service.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots/repair-service.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\support-offline.jpg
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\support-offline.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots/support-offline.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\support-online.jpg
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots\support-online.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\screenshots/support-online.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\about-1-81c08951ff61dbd5a4945fe271b91993.json
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\about-1-81c08951ff61dbd5a4945fe271b91993.json to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates/about-1-81c08951ff61dbd5a4945fe271b91993.json
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\about-2-f0c8c3120f223af736cd1472e518ebcd.json
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\about-2-f0c8c3120f223af736cd1472e518ebcd.json to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates/about-2-f0c8c3120f223af736cd1472e518ebcd.json
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\careers-8ae5f7632dc3cc68f85a614e087d8d74.json
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\careers-8ae5f7632dc3cc68f85a614e087d8d74.json to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates/careers-8ae5f7632dc3cc68f85a614e087d8d74.json
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\coming-soon-b3fd2593bd21654cfbc15793036600e3.json
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\coming-soon-b3fd2593bd21654cfbc15793036600e3.json to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates/coming-soon-b3fd2593bd21654cfbc15793036600e3.json
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\contact-2-35560397663948aa125d38b1d10bb205.json
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\contact-2-35560397663948aa125d38b1d10bb205.json to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates/contact-2-35560397663948aa125d38b1d10bb205.json
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\contact-3-d707af9860ed07e6414c52dc77b76ab6.json
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\contact-3-d707af9860ed07e6414c52dc77b76ab6.json to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates/contact-3-d707af9860ed07e6414c52dc77b76ab6.json
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\contact-95bb785146b5d4af76d7453b7541ff2e.json
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\contact-95bb785146b5d4af76d7453b7541ff2e.json to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates/contact-95bb785146b5d4af76d7453b7541ff2e.json
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\faq-077b4c086aed44d062d41325f713e7a1.json
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\faq-077b4c086aed44d062d41325f713e7a1.json to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates/faq-077b4c086aed44d062d41325f713e7a1.json
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\features-c7eeb102370fcbbad8885315ae3a546d.json
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\features-c7eeb102370fcbbad8885315ae3a546d.json to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates/features-c7eeb102370fcbbad8885315ae3a546d.json
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\home-1-a3a9e9b67e98bd511f84fb140793d241.json
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\home-1-a3a9e9b67e98bd511f84fb140793d241.json to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates/home-1-a3a9e9b67e98bd511f84fb140793d241.json
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\home-2-c6f2689d0ffa6637d9ed13c445dfbf3d.json
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\home-2-c6f2689d0ffa6637d9ed13c445dfbf3d.json to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates/home-2-c6f2689d0ffa6637d9ed13c445dfbf3d.json
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\home-3-d2382bb2d0edfb2f2a24af38086aaebe.json
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\home-3-d2382bb2d0edfb2f2a24af38086aaebe.json to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates/home-3-d2382bb2d0edfb2f2a24af38086aaebe.json
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\product-comparison-29a736271e74e3a9f1ca0dca5bbbef37.json
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\product-comparison-29a736271e74e3a9f1ca0dca5bbbef37.json to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates/product-comparison-29a736271e74e3a9f1ca0dca5bbbef37.json
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\products-087b4a07fb8b946e30e5098baf659fb9.json
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\products-087b4a07fb8b946e30e5098baf659fb9.json to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates/products-087b4a07fb8b946e30e5098baf659fb9.json
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\repair-service-2-0d0dcfdc56b8ecfaf6b118ea1c531c6b.json
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\repair-service-2-0d0dcfdc56b8ecfaf6b118ea1c531c6b.json to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates/repair-service-2-0d0dcfdc56b8ecfaf6b118ea1c531c6b.json
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\repair-service-9ede6a50c4ba6a88e0c135ae3050dc8c.json
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\repair-service-9ede6a50c4ba6a88e0c135ae3050dc8c.json to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates/repair-service-9ede6a50c4ba6a88e0c135ae3050dc8c.json
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\support-offline-5fb956a4c6bc41833c5cb308277308b2.json
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\support-offline-5fb956a4c6bc41833c5cb308277308b2.json to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates/support-offline-5fb956a4c6bc41833c5cb308277308b2.json
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\support-online-2032f3f64874898447b65ee138e446dd.json
+SAVING /wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates\support-online-2032f3f64874898447b65ee138e446dd.json to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads\template-kits\0d8a7ec0737350ec00f7224f7f8c13f0\templates/support-online-2032f3f64874898447b65ee138e446dd.json
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /2020/09/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /2020/09/06/hello-world/
+Adding discovered URL: /author/aarabinfotech/
+Adding discovered URL: /2020/09/
+SAVING /2020/09/ to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/2020/09/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /2020/09/06/hello-world/feed/
+SAVING /2020/09/06/hello-world/feed/ to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/2020/09/06/hello-world/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /author/aarabinfotech/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /author/aarabinfotech/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-json/wp/v2/users/1
+Adding discovered URL: /
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /2020/09/06/hello-world/
+Adding discovered URL: /author/aarabinfotech/
+Adding discovered URL: /2020/09/
+SAVING /author/aarabinfotech/ to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/author/aarabinfotech/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /category/uncategorized/feed/
+SAVING /category/uncategorized/feed/ to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/category/uncategorized/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /comments/feed/
+SAVING /comments/feed/ to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/comments/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /feed/
+SAVING /feed/ to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/\/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/css/frontend-legacy.min.css
+SAVING /wp-content/plugins/elementor/assets/css/frontend-legacy.min.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/css/frontend.min.css
+SAVING /wp-content/plugins/elementor/assets/css/frontend.min.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/css/frontend.min.css
+Memory allocated by crawl script: 10240
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/images/placeholder.png
+SAVING /wp-content/plugins/elementor/assets/images/placeholder.png to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/images/placeholder.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+SAVING /wp-content/plugins/elementor/assets/js/frontend-modules.min.js to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/js/frontend.min.js
+SAVING /wp-content/plugins/elementor/assets/js/frontend.min.js to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/js/frontend.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+SAVING /wp-content/plugins/elementor/assets/lib/animations/animations.min.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js
+SAVING /wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+SAVING /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css
+Memory allocated by crawl script: 8192
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js
+SAVING /wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js
+SAVING /wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js
+SAVING /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/assets/js/index.js
+SAVING /wp-content/themes/twentytwenty/assets/js/index.js to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty/assets/js/index.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/print.css
+SAVING /wp-content/themes/twentytwenty/print.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty/print.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/style.css
+SAVING /wp-content/themes/twentytwenty/style.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/themes/twentytwenty/style.css
+Memory allocated by crawl script: 10240
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/09/arrow-150x150.png
+SAVING /wp-content/uploads/2020/09/arrow-150x150.png to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads/2020/09/arrow-150x150.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/09/arrow.png
+SAVING /wp-content/uploads/2020/09/arrow.png to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads/2020/09/arrow.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/09/drone-3453361_1280-1024x663.jpg
+SAVING /wp-content/uploads/2020/09/drone-3453361_1280-1024x663.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads/2020/09/drone-3453361_1280-1024x663.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/09/drone-3453361_1280-1200x777.jpg
+SAVING /wp-content/uploads/2020/09/drone-3453361_1280-1200x777.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads/2020/09/drone-3453361_1280-1200x777.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/09/drone-3453361_1280-300x194.jpg
+SAVING /wp-content/uploads/2020/09/drone-3453361_1280-300x194.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads/2020/09/drone-3453361_1280-300x194.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/09/drone-3453361_1280-768x497.jpg
+SAVING /wp-content/uploads/2020/09/drone-3453361_1280-768x497.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads/2020/09/drone-3453361_1280-768x497.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/09/drone-3453361_1280.jpg
+SAVING /wp-content/uploads/2020/09/drone-3453361_1280.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads/2020/09/drone-3453361_1280.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/09/jason-blackeye-137278.jpg
+SAVING /wp-content/uploads/2020/09/jason-blackeye-137278.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads/2020/09/jason-blackeye-137278.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/09/passion-1024x682.jpg
+SAVING /wp-content/uploads/2020/09/passion-1024x682.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads/2020/09/passion-1024x682.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/09/passion-1200x800.jpg
+SAVING /wp-content/uploads/2020/09/passion-1200x800.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads/2020/09/passion-1200x800.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/09/passion-1536x1024.jpg
+SAVING /wp-content/uploads/2020/09/passion-1536x1024.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads/2020/09/passion-1536x1024.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/09/passion-300x200.jpg
+SAVING /wp-content/uploads/2020/09/passion-300x200.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads/2020/09/passion-300x200.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/09/passion-768x512.jpg
+SAVING /wp-content/uploads/2020/09/passion-768x512.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads/2020/09/passion-768x512.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/09/passion.jpg
+SAVING /wp-content/uploads/2020/09/passion.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads/2020/09/passion.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/09/woman-150x150.jpg
+SAVING /wp-content/uploads/2020/09/woman-150x150.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads/2020/09/woman-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/09/woman-300x300.jpg
+SAVING /wp-content/uploads/2020/09/woman-300x300.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads/2020/09/woman-300x300.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/09/woman.jpg
+SAVING /wp-content/uploads/2020/09/woman.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads/2020/09/woman.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/elementor/css/post-15.css
+SAVING /wp-content/uploads/elementor/css/post-15.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads/elementor/css/post-15.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/uploads/elementor/css/post-8.css
+SAVING /wp-content/uploads/elementor/css/post-8.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads/elementor/css/post-8.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/elementor/thumbs/annie-niemaszyk-361241-unsplash-ov2mil7yzd52a69jea4xyvw6iigswcd3exv5b79rwo.jpg
+SAVING /wp-content/uploads/elementor/thumbs/annie-niemaszyk-361241-unsplash-ov2mil7yzd52a69jea4xyvw6iigswcd3exv5b79rwo.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads/elementor/thumbs/annie-niemaszyk-361241-unsplash-ov2mil7yzd52a69jea4xyvw6iigswcd3exv5b79rwo.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/elementor/thumbs/black-background-camera-color-1619654-ov2micrf9uthdoltrohaug1161mhz2fidrzrzpmbgo.jpg
+SAVING /wp-content/uploads/elementor/thumbs/black-background-camera-color-1619654-ov2micrf9uthdoltrohaug1161mhz2fidrzrzpmbgo.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads/elementor/thumbs/black-background-camera-color-1619654-ov2micrf9uthdoltrohaug1161mhz2fidrzrzpmbgo.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/elementor/thumbs/camera-drone-macro-1336211-ov2mhs2z3i16a9fv4fjibl8w3kgf9q5eyxn3fmgz9k.jpg
+SAVING /wp-content/uploads/elementor/thumbs/camera-drone-macro-1336211-ov2mhs2z3i16a9fv4fjibl8w3kgf9q5eyxn3fmgz9k.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads/elementor/thumbs/camera-drone-macro-1336211-ov2mhs2z3i16a9fv4fjibl8w3kgf9q5eyxn3fmgz9k.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/elementor/thumbs/jason-blackeye-137278-ov2mhynufca6jj6b20dwb1l499jzrlvjbu7hsk7820.jpg
+SAVING /wp-content/uploads/elementor/thumbs/jason-blackeye-137278-ov2mhynufca6jj6b20dwb1l499jzrlvjbu7hsk7820.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads/elementor/thumbs/jason-blackeye-137278-ov2mhynufca6jj6b20dwb1l499jzrlvjbu7hsk7820.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/elementor/thumbs/saffu-420247-unsplash-ov2mi58pr6j6sswqzl8aahxceynk9hlnoqrw5hxgug.jpg
+SAVING /wp-content/uploads/elementor/thumbs/saffu-420247-unsplash-ov2mi58pr6j6sswqzl8aahxceynk9hlnoqrw5hxgug.jpg to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-content/uploads/elementor/thumbs/saffu-420247-unsplash-ov2mi58pr6j6sswqzl8aahxceynk9hlnoqrw5hxgug.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-includes/css/dist/block-library/style.min.css
+SAVING /wp-includes/css/dist/block-library/style.min.css to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-includes/css/dist/block-library/style.min.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-includes/js/jquery/jquery.js
+SAVING /wp-includes/js/jquery/jquery.js to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-includes/js/jquery/jquery.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-includes/js/jquery/ui/position.min.js
+SAVING /wp-includes/js/jquery/ui/position.min.js to C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/wp-includes/js/jquery/ui/position.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Excluding /wp-json/ because of rule wp-json
+Exclusion rules wp-json
+Excluding /wp-json/oembed/1.0/embed because of rule wp-json
+Exclusion rules wp-json
+Excluding /wp-json/wp/v2/categories/1 because of rule wp-json
+Exclusion rules wp-json
+Excluding /wp-json/wp/v2/pages/15 because of rule wp-json
+Exclusion rules wp-json
+Excluding /wp-json/wp/v2/posts/1 because of rule wp-json
+Uploading C:\\xampp\\htdocs\\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/2020/09/06/hello-world/feed/index.html to C:\xampp\htdocs\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/2020/09/06/hello-world/feed/index.html in GitHub
+API response code 200
+API response body {"errors":[{"message":"Parse error on \"\\\"\" (error) at [3, 24]","locations":[{"line":3,"column":24}]}]}
+Creating C:\xampp\htdocs\forsageinfo/wp-content/uploads/wp-static-html-output-1599405528/2020/09/06/hello-world/feed/index.html in GitHub
+API response code 400
+API response body 
+<html>
+  <head>
+    <meta content="origin" name="referrer">
+    <title>Bad request &middot; GitHub</title>
+    <meta name="viewport" content="width=device-width">
+    <style type="text/css" media="screen">
+      body {
+        background-color: #f6f8fa;
+        color: rgba(0, 0, 0, 0.5);
+        font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+        font-size: 14px;
+        line-height: 1.5;
+      }
+      .c { margin: 50px auto; max-width: 600px; text-align: center; padding: 0 24px; }
+      a { text-decoration: none; }
+      a:hover { text-decoration: underline; }
+      h1 { color: #24292e; line-height: 60px; font-size: 48px; font-weight: 300; margin: 0px; }
+      p { margin: 20px 0 40px; }
+      #s { margin-top: 35px; }
+      #s a {
+        color: #666666;
+        font-weight: 200;
+        font-size: 14px;
+        margin: 0 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="c">
+      <h1>Whoa there!</h1>
+      <p>You have sent an invalid request. <br><br>
+        Please do not send this request again.
+      </p>
+      <div id="s">
+        <a href="https://support.github.com">Contact Support</a> &mdash;
+        <a href="https://githubstatus.com">GitHub Status</a> &mdash;
+        <a href="https://twitter.com/githubstatus">@githubstatus</a>
+      </div>
+    </div>
+  </body>
+</html>
+BAD RESPONSE STATUS FROM API (400)
+Deployment: error encountered
+Exception: BAD RESPONSE STATUS FROM API (400) in C:\xampp\htdocs\forsageinfo\wp-content\plugins\static-html-output-plugin\plugin\WP2Static\SitePublisher.php:2
+Stack trace:
+#0 C:\xampp\htdocs\forsageinfo\wp-content\plugins\static-html-output-plugin\plugin\deployers\GitHub.php(14): WP2Static_SitePublisher->checkForValidResponses(400, Array)
+#1 C:\xampp\htdocs\forsageinfo\wp-content\plugins\static-html-output-plugin\plugin\deployers\GitHub.php(2): WP2Static_GitHub->createFileInGitHub()
+#2 C:\xampp\htdocs\forsageinfo\wp-content\plugins\static-html-output-plugin\plugin\deployers\GitHub.php(2): WP2Static_GitHub->upload_files()
+#3 C:\xampp\htdocs\forsageinfo\wp-content\plugins\static-html-output-plugin\plugin\deployers\GitHub.php(14): WP2Static_GitHub->__construct()
+#4 C:\xampp\htdocs\forsageinfo\wp-content\plugins\static-html-output-plugin\plugin\WP2Static\Dispatcher.php(2): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\forsageinfo\wp-content\plugins\static-html-output-plugin\wp2static.php(17): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\forsageinfo\wp-settings.php(377): include_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\forsageinfo\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\forsageinfo\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\forsageinfo\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#10 {main}
